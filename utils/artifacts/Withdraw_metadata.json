@@ -218,7 +218,7 @@
 	},
 	"settings": {
 		"compilationTarget": {
-			"utils/Widthdraw.sol": "Withdraw"
+			"utils/Withdraw.sol": "Withdraw"
 		},
 		"evmVersion": "paris",
 		"libraries": {},
@@ -304,7 +304,7 @@
 				"dweb:/ipfs/QmRaydGr8BTHs1kvaZfsNU69pKzUAGFrvABn1KiRSbE51y"
 			]
 		},
-		"utils/Widthdraw.sol": {
+		"utils/Withdraw.sol": {
 			"keccak256": "0x0626df59932d25184839f6a928557984fcd7ff2cad4cc5be426b9e84e59e609d",
 			"license": "MIT",
 			"urls": [
